@@ -33,7 +33,7 @@ Nos va a devolver a nuestra consola, una consola dentro del contenedor de softwa
 Tenemos que estar dentro del contenedor con el comando anterior, luego, tenemos que utilizar el gestor de paquetes de Python, PIP para instalarlo.
 Vamos a utilizar la versión 3.2.2 de django.
 
-**$** `pip install Django==3.2.2` 
+**$** `pip install -r requirements.txt` 
 
 ### 4. Crear un proyecto de Django
 Para ello tenemos que estar dentro del contenedor de software (comando N°2)
